@@ -1,0 +1,4 @@
+{
+	"Bug-Report",
+	"Includes": "ID, Summary, Description, STR, Actual result, Expected result, Priority, Serverity, Attachments"
+}
